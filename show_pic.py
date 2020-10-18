@@ -21,7 +21,7 @@ def print_color(F, B):
 
 
 def usage():
-    print("Useage: %s [-w width] pic_file" % sys.argv[0])
+    print("Useage: python3 %s [-w width] pic_file" % sys.argv[0])   
 
 
 def main(argv):
