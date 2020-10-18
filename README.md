@@ -66,4 +66,7 @@ python3 show_pic_login.py [-w width] pic_file
 
 ---
 ## 效果展示
+
 ![result.png](https://github.com/RonYoung666/show-picture-in-shell/blob/main/result.png)
+
+![login.png](https://github.com/RonYoung666/show-picture-in-shell/blob/main/login.png)
