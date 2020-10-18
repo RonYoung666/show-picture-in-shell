@@ -15,7 +15,7 @@ Windows 下将普通图片转换为 24 位 BMP 图片方法：
 
 【使用“画图”打开图片】 -> 【文件】 -> 【另存为】 -> 【24位位图】
 
-### 使用方法：
+**使用方法：**
 
 ```bash
 gcc -o show_pic show_pic.c
@@ -27,7 +27,7 @@ gcc -o show_pic show_pic.c
 ## show_pic_login.c
 设置 shell 登录界面为图片，用 C 编写成，只能使用 24 位 BMP 图片进行设置
 
-### 使用方法：
+**使用方法：**
 
 ```bash
 gcc -o show_pic show_pic.c
@@ -43,7 +43,7 @@ gcc -o show_pic show_pic.c
 
 能使用 -w 参数控制图片宽度，当参数宽度大于 shell 宽度时按照 shell 宽度打印
 
-### 使用方法：
+**使用方法：**
 
 ```bash
 python3 show_pic.py [-w width] pic_file
@@ -57,8 +57,13 @@ python3 show_pic.py [-w width] pic_file
 
 能使用 -w 参数控制图片宽度，当参数宽度大于 shell 宽度时按照 shell 宽度设置
 
-### 使用方法：
+**使用方法：**
 
 ```bash
 python3 show_pic_login.py [-w width] pic_file
 ```
+
+
+---
+## 效果展示
+![result.png](https://github.com/RonYoung666/show-picture-in-shell/blob/main/result.png)
